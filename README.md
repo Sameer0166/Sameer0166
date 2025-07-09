@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img align="right" src="https://github.com/Sameer0166/sameerpic.jpg/commits?author=Sameer0166"/>
+ <img align="right" src="https://github.com/Sameer0166/Sameer0166/commits?author=sameerpic.jpg"/>
 # Hi, I'm Mohd Sameer Pasha 👋
 
 **Location:** Narsampet mndl, Warangal(506132)
