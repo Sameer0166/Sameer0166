@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Cover Photo](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)
+ <img align="right" src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/sameerpic.jpg?raw=true" width="100%" />
 # Hi, I'm Mohd Sameer Pasha 👋
 
 **Location:** Narsampet mndl, Warangal(506132)
