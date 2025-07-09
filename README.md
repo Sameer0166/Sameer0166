@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  ![Cover Photo](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)
-![Profile Pic](https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80)
+![Profile Pic](https://"C:\Users\samee\OneDrive\Pictures\Camera Roll\sameerpic.jpg")
 # Hi, I'm Mohd Sameer Pasha 👋
 
 **Location:** Narsampet mndl, Warangal(506132)
