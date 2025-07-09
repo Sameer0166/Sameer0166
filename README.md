@@ -56,8 +56,8 @@ Here are some ideas to get you started:
     <td>Energetic, driven, and passionate about technology and sports</td>
   </tr>
 </table>
-## Skills
 
+## Skills
 | 💡 Skill            | Level/Experience         |
 |---------------------|-------------------------|
 | Programming         | Python, C, Java         |
