@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 | Tools/Platforms     | Git, GitHub, VS Code    |
 | Soft Skills         | Teamwork, Communication |
 ## Connect with me
-- [email]:(https://mail.google.com/sameerpasha0166@gmail.com)
+- [mail]:(https://mail.google.com/sameerpasha0166@gmail.com)
 - [GitHub](https://github.com/Sameer0166)
 - [LinkedIn](https://www.linkedin.com/in/mohd-sameer-pasha-987785363)
 - [Twitter](https://twitter.com/sameer__0166)
