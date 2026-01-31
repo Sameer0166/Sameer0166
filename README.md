@@ -1,6 +1,7 @@
 <p align="left">
   <img src="my_passportpic_2.jpg" width="120" />
 </p>
+
 # Hi, I'm Mohd Sameer Pasha
 I'm a Computer Science undergraduate currently pursuing B.Tech, with a focus on Python programming and data analysis. I work on practical, hands-on projects involving CSV data processing, automation, and basic analytics, and I’m actively building a strong foundation in software development.
 
