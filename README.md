@@ -134,11 +134,11 @@ Become a Data Analyst and transition into Data Science while pursuing a Master's
 
 # Connect With Me
 
-💼 LinkedIn
+<img src="https://github.com/Sameer0166/Sameer0166/blob/main/Linkedin%20logo.png" width="20" alt="Mohd Sameer Pasha"> LinkedIn
 
 https://linkedin.com/in/mohd-sameer-pasha-987785363
 
-💻 GitHub
+ <img src="https://github.com/Sameer0166/Sameer0166/blob/main/Github%20Logo.png" width="20" alt="Mohd Sameer Pasha"> GitHub
 
 https://github.com/Sameer0166
 
@@ -148,7 +148,7 @@ sameerpasha0166@gmail.com
 
 <img width="20" height="20" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/347f277a-f4b1-46e8-90ef-f993a57218db" />Instagram
 
-sameer__0166
+@sameer__0166
 
 ---
 
