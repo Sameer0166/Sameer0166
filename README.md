@@ -142,11 +142,11 @@ https://linkedin.com/in/mohd-sameer-pasha-987785363
 
 https://github.com/Sameer0166
 
-📧 Email
+<img src="https://github.com/Sameer0166/Sameer0166/blob/main/Email%20logo.jpg" width="20" alt="Mohd Sameer Pasha"> Email
 
 sameerpasha0166@gmail.com
 
-<img width="20" height="20" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/347f277a-f4b1-46e8-90ef-f993a57218db" />Instagram
+<img width="20" height="20" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/347f277a-f4b1-46e8-90ef-f993a57218db" /> Instagram
 
 @sameer__0166
 
