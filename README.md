@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpg" width="220" alt="Mohd Sameer Pasha">
+  <img src="https://github.com/Sameer0166/Sameer0166/blob/main/My_Pic.png" width="220" alt="Mohd Sameer Pasha">
 </p>
 
 # Hi 👋, I'm Mohd Sameer Pasha
@@ -146,7 +146,7 @@ https://github.com/Sameer0166
 
 sameerpasha0166@gmail.com
 
-Instagram <img width="480" height="480" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/347f277a-f4b1-46e8-90ef-f993a57218db" /> 
+Instagram <img width="40" height="40" alt="LogoInstaGIF" src="https://github.com/user-attachments/assets/347f277a-f4b1-46e8-90ef-f993a57218db" /> 
 
 sameer__0166
 
